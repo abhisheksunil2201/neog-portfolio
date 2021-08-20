@@ -38,7 +38,7 @@ const Projects = () => {
         "An emoji interpreter app that tells you the meaning of food emojis.",
       tech: "React",
       git: "https://github.com/abhisheksunil2201/food_emoji_interpreter",
-      link: "https://zero1.csb.app/",
+      link: "https://zero1.codesandbox.io/",
     },
     {
       name: "Book Recommendation App",
