@@ -38,16 +38,16 @@ const Burger = () => {
       {
         <div className={styles.burger + " burger"}>
           <div onClick={() => setMenu(false)}>
-            <a href="#top">Home</a>
+            <a href="/">Home</a>
           </div>
           <div onClick={() => setMenu(false)}>
-            <a href="#projects">Projects</a>
+            <a href="/Projects">Projects</a>
           </div>
           <div onClick={() => setMenu(false)}>
-            <a href="#blogs">Blogs</a>
+            <a href="/Blogs">Blogs</a>
           </div>
           <div onClick={() => setMenu(false)}>
-            <a href="#about">About</a>
+            <a href="/#about">About</a>
           </div>
         </div>
       }
